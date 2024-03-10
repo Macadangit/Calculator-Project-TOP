@@ -13,7 +13,7 @@ body{
     display: flex;
     justify-content: flex-start;
     padding: 10px;
-    background-color: cornflowerblue;
+    background-color: rgb(211, 63, 63);
     color: white;
     box-shadow: 0px  0px 20px 2px hsl(0, 0%, 81%);
 }
@@ -94,6 +94,7 @@ body{
 #current-entry{
     margin-right: 20px;
     font-size: 70px;
+    color: black;
 }
 
 #saved-number{
